@@ -19,16 +19,19 @@ Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaç
 Exemplos de Entrada	Exemplos de Saída
 
 3
+
 9
 
                     PROD = 27
                     
 -30
+
 10
 
                     PROD = -300
 
 0
+
 9                    
 
                     PROD = 0
@@ -51,17 +54,29 @@ A primeira linha apresenta a mensagem “Menor valor:” seguida de um espaço e
 Exemplo de Entrada	Exemplo de Saída
 
 10                   
+
                      Menor valor: -5
-1                    
-                     Posicao: 4 
+                     
+1
+
+                     Posicao: 4
+                     
 2
+
 3
+
 4
--5 
-6 
+
+-5
+
+6
+
 7
+
 8
+
 9
+
 10
 
 Desafio
@@ -81,6 +96,7 @@ Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
 Exemplo de Entrada	Exemplo de Saída
 
 8
+
                       1
                       3
                       5
