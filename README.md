@@ -17,7 +17,7 @@
       <tr><td>0</td><td></td></tr>
       <tr><td>9</td><td>PROD = 0</td></tr>
     </table>
-    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a><br>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-Inter-Java-Developer/blob/main/JavaDIO/src/br/com/digitaloneinnovation/MinhaPrimeiraClasse.java">Link do desafio</a><br>
     <h3>2 / 3 - Menor e Posição</h3>
     <p>Desenvolva um código que leia um valor E. Este E será o tamanho de um vetor X[E]. A seguir, leia cada um dos valores de X, encontre o menor elemento deste vetor e a sua posição dentro do vetor, mostrando esta informação.</p>
     <h3>Entrada</h3>
