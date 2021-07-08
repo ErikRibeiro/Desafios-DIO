@@ -13,8 +13,8 @@
       <tr><td>3</td><td></td></tr>
       <tr><td>9</td><td>PROD = 27</td></tr>
       <tr><td>-30</td><td></td></tr>
-      <tr><td>0</td><td>PROD = -300</td></tr>
-      <tr><td>-30</td><td></td></tr>
+      <tr><td>10</td><td>PROD = -300</td></tr>
+      <tr><td>0</td><td></td></tr>
       <tr><td>9</td><td>PROD = 0</td></tr>
     </table>
     <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a><br>
