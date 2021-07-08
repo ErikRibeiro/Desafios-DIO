@@ -18,7 +18,6 @@
       <tr><td>9</td><td>PROD = 0</td></tr>
     </table>
     <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a><br>
-    
     <h3>2 / 3 - Menor e Posição</h3>
     <p>Desenvolva um código que leia um valor E. Este E será o tamanho de um vetor X[E]. A seguir, leia cada um dos valores de X, encontre o menor elemento deste vetor e a sua posição dentro do vetor, mostrando esta informação.</p>
     <h3>Entrada</h3>
@@ -39,7 +38,6 @@
       <tr><td>10</td><td></td></tr>
     </table>
     <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a><br>
-    
     <h3>3 / 3 - Números Ímpares</h3>
     <p>Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.</p>
     <h3>Entrada</h3>
