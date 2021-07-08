@@ -9,7 +9,7 @@
     <h3>Saída</h3>
     <p>Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaço em branco antes e depois da igualdade.</p>
     <table>
-      <tr><td>Exemplos de Entrada	Exemplos de Saída</td></tr>
+      <tr><td>Exemplos de Entrada</td><td>Exemplos de Saída</td></tr>
       <tr><td>3</td><td></td></tr>
       <tr><td>9</td><td>PROD = 27</td></tr>
       <tr><td>-30</td><td></td></tr>
@@ -25,7 +25,7 @@
     <h3>Saída</h3>
     <p>A primeira linha apresenta a mensagem “Menor valor:” seguida de um espaço e do menor valor lido na entrada. A segunda linha apresenta a mensagem “Posicao:” seguido de um espaço e da posição do vetor na qual se encontra o menor valor lido, lembrando que o vetor inicia na posição zero.</p>
     <table>
-      <tr><td>Exemplos de Entrada	Exemplos de Saída</td></tr>
+      <tr><td>Exemplos de Entrada</td><td>Exemplos de Saída</td></tr>
       <tr><td>1</td><td>Menor valor: -5</td></tr>
       <tr><td>2</td><td>Posicao: 4</td></tr>
       <tr><td>3</td><td></td></tr>
@@ -45,7 +45,7 @@
     <h3>Saída</h3>
     <p>Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.</p>
     <table>
-      <tr><td>Exemplos de Entrada	Exemplos de Saída</td></tr>
+      <tr><td>Exemplos de Entrada</td><td>Exemplos de Saída</td></tr>
       <tr><td>8</td><td></td></tr>
       <tr><td></td><td>1</td></tr>
       <tr><td></td><td>3</td></tr>
