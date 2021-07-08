@@ -52,6 +52,6 @@
       <tr><td></td><td>5</td></tr>
       <tr><td></td><td>7</td></tr>
     </table>
-    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a><br>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-Inter-Java-Developer/blob/main/JavaDIO/src/br/com/digitaloneinnovation/MinhaTerceiraClasse.java">Link do desafio</a><br>
   </body>
 </html>
