@@ -37,7 +37,7 @@
       <tr><td>9</td><td></td></tr>
       <tr><td>10</td><td></td></tr>
     </table>
-    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a><br>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-Inter-Java-Developer/blob/main/JavaDIO/src/br/com/digitaloneinnovation/MinhaSegundaClasse.java">Link do desafio</a><br>
     <h3>3 / 3 - Números Ímpares</h3>
     <p>Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.</p>
     <h3>Entrada</h3>
